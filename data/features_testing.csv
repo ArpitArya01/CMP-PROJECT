@@ -1,0 +1,2 @@
+add,sub,mul,div,load,store,call,icmp,br,phi,ret,file
+3,0,0,0,8,7,2,1,4,0,2,sum.ll
